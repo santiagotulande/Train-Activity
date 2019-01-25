@@ -1,0 +1,13 @@
+html, body {
+    background: url(../images/casey-horner-490781-unsplash.jpg) no-repeat center fixed; 
+    background-size: cover;
+    height: 100%;
+}
+
+.container {
+opacity: 0.6;
+}
+
+.jumbotron{
+    background-color: grey;
+}
